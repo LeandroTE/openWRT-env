@@ -7,7 +7,7 @@ This repository contains utilities to develop using OpenWRT
 
 **Run container**
 
-`docker-compose run openwtbuilder`
+`docker-compose run openwrtbuilder`
 
 # Helpfull comands
 ## Download OpenWRT
